@@ -1,0 +1,9 @@
+C:\dydaktyka\Visual Studio 2015\Projects\NiezlaForma\NiezlaForma\bin\Debug\NiezlaForma.exe.config
+C:\dydaktyka\Visual Studio 2015\Projects\NiezlaForma\NiezlaForma\bin\Debug\NiezlaForma.exe
+C:\dydaktyka\Visual Studio 2015\Projects\NiezlaForma\NiezlaForma\bin\Debug\NiezlaForma.pdb
+C:\dydaktyka\Visual Studio 2015\Projects\NiezlaForma\NiezlaForma\obj\Debug\NiezlaForma.csprojResolveAssemblyReference.cache
+C:\dydaktyka\Visual Studio 2015\Projects\NiezlaForma\NiezlaForma\obj\Debug\NiezlaForma.Form1.resources
+C:\dydaktyka\Visual Studio 2015\Projects\NiezlaForma\NiezlaForma\obj\Debug\NiezlaForma.Properties.Resources.resources
+C:\dydaktyka\Visual Studio 2015\Projects\NiezlaForma\NiezlaForma\obj\Debug\NiezlaForma.csproj.GenerateResource.Cache
+C:\dydaktyka\Visual Studio 2015\Projects\NiezlaForma\NiezlaForma\obj\Debug\NiezlaForma.exe
+C:\dydaktyka\Visual Studio 2015\Projects\NiezlaForma\NiezlaForma\obj\Debug\NiezlaForma.pdb
